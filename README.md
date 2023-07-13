@@ -1,3 +1,9 @@
+<div align="center">
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=0000FF&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+SIMOZEX!💻" /></h1>
+  <br />
+
+
+
 </br>[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&pause=1000&color=0000FF&width=435&lines=HELLO+WORLD!)](https://git.io/typing-svg)
 
 
