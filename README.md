@@ -10,7 +10,11 @@
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
 <p dir="auto">My name is MOHAMMED MOUHALA, I am 21 years old, I obtained my bachelor’s degree in 2020. I am now engaged in the distance education system under the title alx. I study everything related to software engineering. What made me want to continue this educational program is the unique teaching method that seeks to make you a successful person in the future who sought to become a successful software engineer in the future.</p></h1>            
 
+### Hi there 👋
 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=simozex&hide_rank=true&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark)](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simozex&layout=compact&theme=github_dark)](#)
 
 <div align="center">
 <br><p align="centre"><b>🔥Visitors Count🔥</b></p>  
