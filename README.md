@@ -1,11 +1,7 @@
 <div align="center">
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=0000FF&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+SIMOZEX!💻" /></h1>
-  <br />
-
-
-
+	
 </br>[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&pause=1000&color=0000FF&width=435&lines=HELLO+WORLD!)](https://git.io/typing-svg)
-
 <img alt="Modern Minimalist Simple Technology Facebook Cover.png" src="https://github.com/simozex/simozex/blob/main/Modern%20Minimalist%20Simple%20Technology%20Facebook%20Cover.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 <a href='https://www.instagram.com/simo_mouhala/' target="_blank"><img alt='INSTAGRAM' src='https://img.shields.io/badge/INSTAGRAM-100000?style=for-the-badge&logo=INSTAGRAM&logoColor=560D0D&labelColor=DA2DA6&color=E40E2B'/></a>
