@@ -1,0 +1,31 @@
+<svg id="SvgjsSvg1186" width="673" height="350" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev" class="apexcharts-svg" xmlns:data="ApexChartsNS" transform="translate(0, 0)" style="background: transparent;">
+  <g id="SvgjsG1188" class="apexcharts-inner apexcharts-graphical" transform="translate(12, 35)">
+    <defs id="SvgjsDefs1187">
+      <clipPath id="gridRectMaskdpogepk5g">
+        <rect id="SvgjsRect1195" width="627.658332824707" height="277" x="-3" y="-1" rx="0" ry="0" opacity="1" stroke-width="0" stroke="none" stroke-dasharray="0" fill="#fff"></rect>
+      </clipPath>
+      <clipPath id="forecastMaskdpogepk5g"></clipPath>
+      <clipPath id="nonForecastMaskdpogepk5g"></clipPath>
+      <clipPath id="gridRectMarkerMaskdpogepk5g">
+        <rect id="SvgjsRect1196" width="657.658332824707" height="311" x="-18" y="-18" rx="0" ry="0" opacity="1" stroke-width="0" stroke="none" stroke-dasharray="0" fill="#fff"></rect>
+      </clipPath>
+    </defs>
+    <g id="SvgjsG1257" class="apexcharts-grid">
+      <g id="SvgjsG1258" class="apexcharts-gridlines-horizontal" style="display: none;">
+        <line id="SvgjsLine1260" x1="0" y1="0" x2="621.658332824707" y2="0" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1261" x1="0" y1="39.285714285714285" x2="621.658332824707" y2="39.285714285714285" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1262" x1="0" y1="78.57142857142857" x2="621.658332824707" y2="78.57142857142857" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1263" x1="0" y1="117.85714285714286" x2="621.658332824707" y2="117.85714285714286" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1264" x1="0" y1="157.14285714285714" x2="621.658332824707" y2="157.14285714285714" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1265" x1="0" y1="196.42857142857142" x2="621.658332824707" y2="196.42857142857142" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1266" x1="0" y1="235.7142857142857" x2="621.658332824707" y2="235.7142857142857" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1267" x1="0" y1="275" x2="621.658332824707" y2="275" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+      </g>
+      <g id="SvgjsG1259" class="apexcharts-gridlines-vertical" style="display: none;"></g>
+      <line id="SvgjsLine1269" x1="0" y1="275" x2="621.658332824707" y2="275" stroke="transparent" stroke-dasharray="0" stroke-linecap="butt"></line>
+      <line id="SvgjsLine1268" x1="0" y1="1" x2="0" y2="275" stroke="transparent" stroke-dasharray="0" stroke-linecap="butt"></line>
+    </g>
+    <g id="SvgjsG1197" class="apexcharts-radar-series apexcharts-plot-series" transform="translate(310.8291664123535, 137.5)">
+      <polygon id="SvgjsPolygon1228" points="0,-140 121.2435565298214,-70.00000000000001 121.24355652982142,69.99999999999997 1.7145055188062946e-14,140 -121.24355652982138,70.00000000000006 -121.24355652982146,-69.9999999999999 " fill="#0000FF" stroke="#0000FF" stroke-width="1"></polygon>
+      <polygon id="SvgjsPolygon1229" points="0,-120 103.92304845413263,-60.000000000000014 103.92304845413264,59.99999999999997 1.469576158976824e-14,120 -103.92304845413261,60.00000000000006 -103.92304845413268,-59.99999999999992 " fill="#0000FF" stroke="#0000FF" stroke-width="1"></polygon>
+      <polygon id="SvgjsPolygon1230" points="0,-100 86.60254037844386,-50.000000000000014 86.60254037844388,49.99999999999998 1.2246467991473532e-14,100 -86.60254037844383,50.00000000000004 -86.6025403784439,-49.999999999999936 " fill="#0000FF" stroke="#0000FF" stroke-width="1"></
