@@ -14,9 +14,11 @@
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
 <p dir="auto">My name is MOHAMMED MOUHALA, I am 21 years old, I obtained my bachelor’s degree in 2020. I am now engaged in the distance education system under the title alx. I study everything related to software engineering. What made me want to continue this educational program is the unique teaching method that seeks to make you a successful person in the future who sought to become a successful software engineer in the future.</p></h1>            
 
+<h3 align="centre">Languages and Tools:</h3>
+<p align="centre"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+
 ### Hi there 👋
-
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=simozex&hide_rank=true&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark)](#)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simozex&layout=compact&theme=github_dark)](#)
 
